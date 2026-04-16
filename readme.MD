@@ -6,4 +6,5 @@
  * Light oil 
 
 ## KARAM DOSA 
- 
+  * Dosa Batter
+  * Chilly Powder
