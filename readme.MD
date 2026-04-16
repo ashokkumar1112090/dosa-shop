@@ -12,3 +12,5 @@
 
 ## EGG DOSA
   * Dosa Batter
+  * Egg and Chilly Powder
+  
