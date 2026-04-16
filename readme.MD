@@ -7,6 +7,4 @@
 
 ## KARAM DOSA 
   * Dosa Batter
-  * Chilly Powder
-  * Oil 
-  * Masala
+  * Chilly Powder and Egg
